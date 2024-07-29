@@ -1,5 +1,5 @@
 # tiktoken
-building the byte-pair encoding tokenizer algorithm with interactive interface using gradio.
+building the byte-pair encoding tokenizer algorithm with interactive interface using gradio in just  `~200 lines of code`.
 
 
 ### usage:
