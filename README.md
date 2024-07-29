@@ -1,5 +1,5 @@
 # tiktoken
-Building the Byte-Pair Encoding tokenizer algorithm with an interactive interface using Gradio in just a single file **~200** lines of code.
+Building the Byte-Pair Encoding tokenizer algorithm similar to Karpathy's bpe with an interactive interface using Gradio in just a single file **~200** lines of code.
 
 ### usage:
 **download the repo**
