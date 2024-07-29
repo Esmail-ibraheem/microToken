@@ -1,3 +1,5 @@
 torch>=1.9.0
 regex
 gradio
+tiktoken
+sentencepiece
